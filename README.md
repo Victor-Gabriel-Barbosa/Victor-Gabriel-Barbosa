@@ -4,7 +4,7 @@
   # Olá, Mundo! 👋 Eu sou o Victor Gabriel
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgabrielbarbosa88@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
@@ -14,9 +14,7 @@
 ## 💻 Sobre Mim
 
 - 🚀 Desenvolvedor apaixonado por resolver problemas complexos
-- 🔭 Atualmente trabalhando em [seu projeto atual]
-- 🌱 Aprendendo continuamente e expandindo meu conhecimento em [tecnologia que está estudando]
-- 👯 Buscando colaborar em projetos open source
+- 🌱 Aprendendo continuamente e expandindo meu conhecimento em [Swift]
 - 💬 Pergunte-me sobre desenvolvimento de software, algoritmos e estruturas de dados
 
 ## 🛠️ Linguagens e Ferramentas
