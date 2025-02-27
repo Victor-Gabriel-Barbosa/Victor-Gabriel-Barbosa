@@ -12,7 +12,7 @@
 ## 💻 Sobre Mim
 
 - 🚀 Desenvolvedor apaixonado por resolver problemas complexos
-- 🌱 Aprendendo continuamente e expandindo meu conhecimento em [Swift]
+- 🌱 Aprendendo continuamente e expandindo meu conhecimento em Swift, HTML5 e Java Script
 - 💬 Pergunte-me sobre desenvolvimento de software, algoritmos e estruturas de dados
 
 ## 🛠️ Linguagens e Ferramentas
