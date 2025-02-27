@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/67410476/142714864-95efafbd-c99b-4991-be24-f8c776fbb8c0.gif" width="180" />
   
-  # Olá, meu nome é o Victor Gabriel 👋
+  # Olá, meu nome é Victor Gabriel 👋
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgabrielbarbosa88@gmail.com)
