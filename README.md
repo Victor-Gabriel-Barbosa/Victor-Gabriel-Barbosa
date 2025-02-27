@@ -43,12 +43,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Victor-Gabriel-Barbosa&theme=radical&no-frame=true&margin-w=15" />
 </div>
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Gabriel-Barbosa&theme=radical&hide_border=true" />
-</div>
-
 ## 🌟 Principais Projetos
 
 <div align="center">
