@@ -53,8 +53,11 @@
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=NOME_DO_REPO&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/NOME_DO_REPO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=NOME_DO_REPO&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/NOME_DO_REPO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Hackatruck&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Hackatruck)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Programacao-Web-I&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Programacao-Web-I)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=POO_1&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/POO_1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Algoritmos_II&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Algoritmos_II)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=ED_2&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/ED_2)
 
 </div>
 
