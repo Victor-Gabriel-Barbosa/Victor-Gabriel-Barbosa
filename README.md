@@ -67,6 +67,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=POO_1&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/POO_1)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Algoritmos_II&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Algoritmos_II)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=ED_2&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/ED_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Animu&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Animu)
 
 </div>
 
