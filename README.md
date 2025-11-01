@@ -14,7 +14,7 @@
 ## 💻 Sobre Mim
 
 Sou um **desenvolvedor apaixonado por tecnologia** e por resolver problemas de forma criativa e eficiente.  
-Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco em **Swift**, **HTML5**, e **JavaScript**.  
+Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco em **Kotlin**, **HTML5**, e **JavaScript**.  
 
 🎯 **Interesses principais:**
 - Desenvolvimento de software e arquitetura de sistemas  
