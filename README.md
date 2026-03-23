@@ -68,14 +68,6 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 
 ---
 
-## 🏆 Conquistas no GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Gabriel-Barbosa&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🌟 Projetos em Destaque
 
 <div align="center">
