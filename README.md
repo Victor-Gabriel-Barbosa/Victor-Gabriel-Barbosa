@@ -73,40 +73,6 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 
 ---
 
-## 🌟 Projetos em Destaque
-
-### 🎮 Aplicações Web & Games
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Animu&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Animu)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=AnimuPlus&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/AnimuPlus)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=DualWorld&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/DualWorld)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Musicz&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Musicz)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=EuFacoVoceJoga&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/EuFacoVoceJoga)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Portfolio&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Portfolio)
-
-</div>
-
-### 📚 Disciplinas Acadêmicas
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=POO1&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/POO1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=ED2&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/ED2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=PW1&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/PW1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Hackatruck&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Hackatruck)
-
-</div>
-
-### 🔧 Ferramentas & Bibliotecas
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=Lcplus&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/Lcplus)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Barbosa&repo=BitTorrent&theme=radical&hide_border=true)](https://github.com/Victor-Gabriel-Barbosa/BitTorrent)
-
-</div>
-
----
-
 ## 📋 Resumo dos Projetos
 
 | Categoria | Principais Repositórios |
