@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="500" alt="Banner animado" />
-
+  
   # 👋 Olá! Eu sou o Victor
+  
+  <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="500" alt="Banner animado" />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-barbosa-83284b334/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgabrielbarbosa88@gmail.com)
