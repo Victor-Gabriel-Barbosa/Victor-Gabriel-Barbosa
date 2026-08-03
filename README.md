@@ -73,19 +73,6 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 
 ---
 
-## 📋 Resumo dos Projetos
-
-| Categoria | Principais Repositórios |
-|-----------|------------------------|
-| **Web & Games** | Animu, AnimuPlus, Musicz, DualWorld, EuFacoVoceJoga |
-| **Estruturas de Dados** | Lcplus, ED1, ED2, ALG1, ALG2 |
-| **Web Avançado** | PW1, PW2, NextJS-Curso, Portfolio |
-| **Mobile** | AndroidStudioProjects, Hackatruck, Animup |
-| **Sistemas & Redes** | BitTorrent, SO, Redes, BD2 |
-| **Utilitários** | Utils, Assets, WebCurios, APIs |
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Victor-Gabriel-Barbosa&style=for-the-badge&color=blueviolet" alt="Contador de visualizações" />
   
