@@ -67,8 +67,8 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor-Gabriel-Barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Gabriel-Barbosa&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Victor-Gabriel-Barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-Gabriel-Barbosa&layout=compact&theme=radical&hide_border=true" height="165" />
 </div>
 
 ---
