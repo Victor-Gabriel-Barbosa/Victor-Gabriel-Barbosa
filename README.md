@@ -64,20 +64,20 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 
 ---
 
-### 📈 Gráfico de Contribuições
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Gabriel-Barbosa&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Victor-Gabriel-Barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-Gabriel-Barbosa&layout=compact&theme=radical&hide_border=true" height="165" />
 </div>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Gabriel-Barbosa&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
