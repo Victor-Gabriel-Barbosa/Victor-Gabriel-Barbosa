@@ -22,7 +22,7 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 - Design de interfaces intuitivas  
 - Inteligência Artificial e Machine Learning  
 
-🧠 **Aprendendo atualmente:** React Native • Kotlin • SwiftUI • Next.js • Prisma  
+🧠 **Aprendendo atualmente:** React Native • Kotlin • SwiftUI • Next.js  
 
 ---
 
