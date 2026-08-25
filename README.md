@@ -13,8 +13,6 @@
 
 ## 💻 Sobre Mim
  
-🎓 Estudante de **Sistemas de Informação** (7º período) na **UFU - Monte Carmelo**.
- 
 Sou um **desenvolvedor apaixonado por tecnologia** e por resolver problemas de forma criativa e eficiente.
 Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco em **Kotlin**, **TypeScript** e **Next.js**.
  
