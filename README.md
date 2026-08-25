@@ -114,5 +114,11 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 
 </table>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victor-Gabriel-Barbosa&style=for-the-badge&colo
+  <img src="https://komarev.com/ghpvc/?username=Victor-Gabriel-Barbosa&style=for-the-badge&color=blueviolet" alt="Contador de visualizações" />
+  
+  <br/><br/>
+  <p>💡 <i>"Construindo o futuro, uma linha de código por vez."</i></p>
+</div>
