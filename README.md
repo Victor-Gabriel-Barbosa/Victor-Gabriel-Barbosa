@@ -1,21 +1,23 @@
-<div align="center">
-  
-  # 👋 Olá! Eu sou o Victor
-  
-  <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="500" alt="Banner animado" />
+<table>
+<tr>
+<td width="40%" valign="top" align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-barbosa-83284b334/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgabrielbarbosa88@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-</div>
+# 👋 Olá! Eu sou o Victor
 
----
+<img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="100%" alt="Banner animado" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-barbosa-83284b334/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgabrielbarbosa88@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+
+</td>
+<td width="60%" valign="top">
 
 ## 💻 Sobre Mim
- 
+
 Sou um **desenvolvedor apaixonado por tecnologia** e por resolver problemas de forma criativa e eficiente.
 Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco em **Kotlin**, **TypeScript** e **Next.js**.
- 
+
 🎯 **Interesses principais:**
 - Desenvolvimento de software e arquitetura de sistemas
 - Estruturas de dados e algoritmos
@@ -23,6 +25,10 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 - Inteligência Artificial e Machine Learning
 
 🧠 **Aprendendo atualmente:** AWS • Spring Boot • Angular
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,8 +86,4 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victor-Gabriel-Barbosa&style=for-the-badge&color=blueviolet" alt="Contador de visualizações" />
-  
-  <br/><br/>
-  <p>💡 <i>"Construindo o futuro, uma linha de código por vez."</i></p>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Victor-Gabriel-Barbosa&style=for-the-badge&colo
