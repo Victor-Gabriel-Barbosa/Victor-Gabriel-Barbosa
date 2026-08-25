@@ -23,6 +23,7 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 - Estruturas de dados e algoritmos
 - Design de interfaces intuitivas
 - Inteligência Artificial e Machine Learning
+
 🧠 **Aprendendo atualmente:** AWS • Spring Boot • Angular
 
 ---
