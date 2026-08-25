@@ -61,6 +61,7 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin logo" />
 </div>
+<br />
 </td>
 
 <td valign="top" align="center">
