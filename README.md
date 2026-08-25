@@ -12,17 +12,18 @@
 ---
 
 ## 💻 Sobre Mim
-
-Sou um **desenvolvedor apaixonado por tecnologia** e por resolver problemas de forma criativa e eficiente.  
-Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco em **Kotlin**, **HTML5**, **JavaScript** e **Next.js**.  
-
+ 
+🎓 Estudante de **Sistemas de Informação** (7º período) na **UFU - Monte Carmelo**.
+ 
+Sou um **desenvolvedor apaixonado por tecnologia** e por resolver problemas de forma criativa e eficiente.
+Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco em **Kotlin**, **TypeScript** e **Next.js**.
+ 
 🎯 **Interesses principais:**
-- Desenvolvimento de software e arquitetura de sistemas  
-- Estruturas de dados e algoritmos  
-- Design de interfaces intuitivas  
-- Inteligência Artificial e Machine Learning  
-
-🧠 **Aprendendo atualmente:** React Native • Kotlin • SwiftUI • Next.js  
+- Desenvolvimento de software e arquitetura de sistemas
+- Estruturas de dados e algoritmos
+- Design de interfaces intuitivas
+- Inteligência Artificial e Machine Learning
+🧠 **Aprendendo atualmente:** AWS • Spring Boot • Angular
 
 ---
 
