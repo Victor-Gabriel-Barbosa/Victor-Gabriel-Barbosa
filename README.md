@@ -79,14 +79,6 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 
 ---
 
-## 📈 Gráfico de Contribuições
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Gabriel-Barbosa&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Victor-Gabriel-Barbosa&style=for-the-badge&color=blueviolet" alt="Contador de visualizações" />
   
