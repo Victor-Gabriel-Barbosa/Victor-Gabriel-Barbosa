@@ -2,7 +2,7 @@
 
 ## 👋 Olá! Eu sou o Victor
 
-<img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="50%" alt="Banner animado" />
+<img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="400" alt="Banner animado" />
 
 <br>
 
