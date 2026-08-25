@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="40%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-# 👋 Olá! Eu sou o Victor
+## 👋 Olá! Eu sou o Victor
 
 <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="100%" alt="Banner animado" />
 
@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 </td>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ## 💻 Sobre Mim
 
@@ -28,18 +28,24 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
 
 </td>
 </tr>
-</table>
 
----
+<tr>
+<td valign="top" align="center">
 
-## 🛠️ Linguagens e Ferramentas
+## 💻 Linguagens de Programação
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="35" alt="PHP logo" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
   <img width="15" />
@@ -53,37 +59,64 @@ Atualmente, estou me aprofundando em **desenvolvimento mobile e web**, com foco 
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="R logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="35" alt="Swift logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin logo" />
-  <img width="15" />
+</div>
+</td>
+
+<td valign="top" align="center">
+
+## 🛠️ Ferramentas e Tecnologias
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="35" alt="Vercel logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="IntelliJ IDEA logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="35" alt="NetBeans logo" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="35" alt="Google Colab logo" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="35" alt="GitHub logo" />  
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="35" alt="Firebase logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="35" alt="Supabase logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo" />
 </div>
 
----
+</td>
+</tr>
 
+<tr>
+<td  colspan="2" align="center">
+  
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Victor-Gabriel-Barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-Gabriel-Barbosa&layout=compact&theme=radical&hide_border=true" height="165" />
 </div>
+</td>
+</tr>
 
 ---
+
+</table>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Victor-Gabriel-Barbosa&style=for-the-badge&colo
